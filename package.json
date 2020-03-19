@@ -25,20 +25,20 @@
 				]
 		},
 		"devDependencies": {
-				"@babel/cli": "^7.5.5",
-				"@babel/core": "^7.5.5",
-				"@babel/plugin-proposal-object-rest-spread": "^7.5.5",
-				"@babel/preset-env": "^7.5.5",
-				"@babel/register": "^7.5.5",
+				"@babel/cli": "^7.8.4",
+				"@babel/core": "^7.8.7",
+				"@babel/plugin-proposal-object-rest-spread": "^7.8.3",
+				"@babel/preset-env": "^7.8.7",
+				"@babel/register": "^7.8.6",
 				"chai": "^4.2.0",
-				"eslint": "^6.2.2",
+				"eslint": "^6.8.0",
 				"eslint-plugin-mocha": "^5.3.0",
-				"mocha": "^6.2.0",
-				"nyc": "^14.1.1"
+				"mocha": "^7.1.1",
+				"nyc": "^15.0.0"
 		},
 		"dependencies": {
-				"@pubcore/http-client": "^2.3.3",
-				"@pubcore/ui-resource": "^1.0.2",
-				"deep-equal": "^1.0.1"
+				"@pubcore/http-client": "^2.5.0",
+				"@pubcore/ui-resource": "^1.0.3",
+				"deep-equal": "^1.1.1"
 		}
 }
